@@ -1,0 +1,58 @@
+.personal-details-holder{
+    position: relative;
+}
+.personal-details-holder label{
+    margin-bottom: 0px;
+    color: black;
+}
+.personal-details-holder .flex-it{
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow-y: auto;
+}
+.personal-details-holder .no-flex{
+    padding: 10px;
+    width: 100%;
+}
+.personal-details-holder .no-flex textarea{
+    border: 1px solid #007bff;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+}
+.personal-details-holder .no-flex button{
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    color: #ffff;
+    padding: 5px;
+}
+.personal-details-holder .flex-it .right{
+    padding: 10px;
+    width: 50%;
+}
+.personal-details-holder .flex-it .left{
+    padding: 10px;
+    width: 50%;
+}
+.personal-details-holder .flex-it input{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #007bff;
+    padding: 10px;
+}
+.personal-details-holder .flex-it select{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #007bff;
+    padding: 10px;
+}
+.spinner-border{
+    display: none;
+}
+.error-message{
+    display: none;
+}

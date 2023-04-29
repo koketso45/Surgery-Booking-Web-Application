@@ -1,0 +1,56 @@
+.choose-holder{
+    padding: 10px;
+    width: 100%;
+}
+.choose-holder label{
+    color: black;
+    margin-bottom: 0px;
+}
+.choose-holder select{
+    padding: 5px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+}
+.for-me{
+    width: 100%;
+    padding: 10px;
+}
+.for-me p{
+    margin-bottom: 0px;
+    color: black;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 0px;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    position: relative;
+}
+.center-it{
+    padding: 0px;
+}
+.specify label{
+    margin-bottom: 0px;
+}
+.specify textarea{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #007bff;
+    padding: 10px;
+}
+.specify button{
+    border-radius: 5px;
+    border: 1px solid #007bff;
+    background-color: #007bff;
+    color: #ffff;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#AllergiesHide, #AllergiesHide2{
+    display: none;
+}

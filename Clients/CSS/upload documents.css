@@ -1,0 +1,52 @@
+  /*-- Another design drag & drop design --*/
+#dropZone {
+    position: relative;
+    border:2px dashed #000;  
+    padding: 50px;
+    width: 600px;
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+}
+#dropZone  p, .heading-paragraph{
+    color: #000;
+}
+#dropZone #fileupload{
+    align-items: center;
+}
+#files {
+    border: 1px dotted #0088cc;
+    padding: 20px;
+    width: 200px;
+    display: none;
+}
+.file_drag_area  
+{  
+    width:600px;  
+    border:2px dashed #ccc;  
+    text-align:center;  
+    font-size:24px;  
+    margin-bottom: 10px;
+}  
+.file_drag_over{  
+    color:#000;  
+    border-color:#000;  
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 600px;
+    border: 1px solid #000;
+  }
+  
+  td, th {
+    border: 1px solid #000;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  /*tr:nth-child(even) {
+    background-color: #dddddd;
+  }*/

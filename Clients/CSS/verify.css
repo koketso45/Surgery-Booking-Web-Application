@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@800&display=swap');
+.message-hol{
+    width: 800px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    position: absolute;
+}
+.message-hol p{
+    font-family: 'Alexandria', sans-serif;
+    color: #007bff;
+    text-align: center;
+    font-size: 35px;
+    text-align: justify;
+}
+.message-hol a{
+    color: #ffff;
+    padding: 10px;
+    font-weight: bold;
+    text-decoration: none;
+    align-items: center;
+    background-color: #007bff;
+    text-transform: uppercase;
+    align-content: center;
+    text-align: center !important;
+    border-radius: 3px;
+}
+.message-hol a:hover{
+    color: #ffff;
+}

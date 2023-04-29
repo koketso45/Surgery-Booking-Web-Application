@@ -1,0 +1,30 @@
+.pay-btn{
+    padding: 5px;
+    text-align: center;
+    color: #ffff;
+    background-color: #007bff;
+    border-radius: 5px;
+    margin: 3px;
+}
+.pay-btn:hover{
+    padding: 5px;
+    text-align: center;
+    color: #ffff;
+    background-color: #007bff;
+    border-radius: 5px;
+    margin: 3px;
+}
+.payy{
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #007bff;
+    background-color: #007bff;
+    color: #ffff;
+}
+.delete{
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #dc3545;
+    background-color: #dc3545;
+    color: #ffff;
+}
