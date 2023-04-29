@@ -1,0 +1,36 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #dddddd;
+} 
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+.mlab{
+    margin-bottom: 0px;
+}
+.mbla-1{
+    margin-top: 0px;
+}
+.mlab-input{
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #007bff;
+}
+.mlab-select{
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #007bff;
+}
+.submit-btn{
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    padding: 5px;
+    color: #ffff;
+}
+.down{
+    margin-bottom: 5px;
+}

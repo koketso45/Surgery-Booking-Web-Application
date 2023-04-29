@@ -1,0 +1,21 @@
+.fa-pencil{
+    cursor: pointer;
+}
+.update-form-holder{
+    padding: 10px;
+}
+.update-form-holder label{
+    margin-bottom: 0px;
+}
+.update-form-holder input{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #007bff;
+    padding: 10px;
+}
+.update-form-holder select{
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid #007bff;
+    padding: 10px;
+}
